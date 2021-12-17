@@ -47,6 +47,7 @@ select{
 input{
     border-radius: 0.4rem;
     border-color: transparent;
+    margin: 0.5rem;
 }
 
 #botao{
